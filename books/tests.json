@@ -57,6 +57,34 @@
               2,
               4
             ]
+          },
+          {
+            "id": 2,
+            "question": "Что изображено на картинке?",
+            "imageLink": "https://github.com/andrewhamsterr/BokifyContent/raw/master/images/ananas.png",
+            "multiplyAnswerEnabled": true,
+            "answers": [
+              {
+                "id": 1,
+                "text": "Ответ 1"
+              },
+              {
+                "id": 2,
+                "text": "Ответ 2"
+              },
+              {
+                "id": 3,
+                "text": "Ответ 4"
+              },
+              {
+                "id": 4,
+                "text": "Ответ 3"
+              }
+            ],
+            "rightAnswersIDS": [
+              2,
+              4
+            ]
           }
         ]
       }
