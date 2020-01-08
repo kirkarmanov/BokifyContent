@@ -1,38 +1,40 @@
 [
   {
-    "bookId": 1,
+    "bookId": "1",
     "parts": [
       {
         "partNumber": 1,
         "questions": [
           {
             "id": 1,
-            "question": "О чем глава?",
+            "question": "Сколько будет 2+2?",
+            "multiplyAnswerEnabled": false,
             "answers": [
               {
                 "id": 1,
-                "text": "О деньгах"
+                "text": "1"
               },
               {
                 "id": 2,
-                "text": "О любви"
+                "text": "2"
               },
               {
                 "id": 3,
-                "text": "О еде"
+                "text": "3"
               },
               {
                 "id": 4,
-                "text": "О воде"
+                "text": "4"
               }
             ],
             "rightAnswersIDS": [
-              3
+              4
             ]
           },
           {
             "id": 2,
             "question": "Выберите ответы 2 и 3",
+            "multiplyAnswerEnabled": true,
             "answers": [
               {
                 "id": 1,
