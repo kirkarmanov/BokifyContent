@@ -1,0 +1,54 @@
+{
+  "userBooks": [
+    {
+      "id": "1",
+      "title": "Как разбогатеть на тестиках",
+      "authors": "Карманов К.",
+      "image": "https://github.com/andrewhamsterr/BokifyContent/raw/master/images/kirill.jpg",
+      "cost": "300.0",
+      "progress": 0
+    },
+    {
+      "id": "2",
+      "title": "Тестирование не якорь",
+      "authors": "Чернышев П.",
+      "image": "https://github.com/andrewhamsterr/BokifyContent/raw/master/images/pasha.jpg",
+      "cost": "0",
+      "progress": 0
+    },
+    {
+      "id": "3",
+      "title": "PRO дизайн",
+      "authors": "Чуркин Д.",
+      "image": "https://github.com/andrewhamsterr/BokifyContent/raw/master/images/dima.jpg",
+      "cost": "150.0",
+      "progress": 0
+    }
+  ],
+  "recommendBooks": [
+    {
+      "id": "1",
+      "title": "Как разбогатеть на тестиках",
+      "authors": "Карманов К.",
+      "image": "https://github.com/andrewhamsterr/BokifyContent/raw/master/images/kirill.jpg",
+      "cost": "300.0",
+      "progress": 0
+    },
+    {
+      "id": "2",
+      "title": "Тестирование не якорь",
+      "authors": "Чернышев П.",
+      "image": "https://github.com/andrewhamsterr/BokifyContent/raw/master/images/pasha.jpg",
+      "cost": "0",
+      "progress": 0
+    },
+    {
+      "id": "3",
+      "title": "PRO дизайн",
+      "authors": "Чуркин Д.",
+      "image": "https://github.com/andrewhamsterr/BokifyContent/raw/master/images/dima.jpg",
+      "cost": "150.0",
+      "progress": 0
+    }
+  ]
+}
