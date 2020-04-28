@@ -12,7 +12,7 @@
     },
     {
       "type": 1,
-      "params": "{\"imageLink\":\"logo.png\",\"imageDescription\": \"Айвазовский\"}"
+      "params": "{\"imageLink\":\"https://github.com/andrewhamsterr/BokifyContent/raw/master/images/testImage.png\",\"imageDescription\": \"Айвазовский\"}"
     },
     {
       "type": 0,
