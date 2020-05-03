@@ -1,0 +1,12 @@
+[
+  {
+    "name": "text-primary",
+    "lightThemeColor": "#171F24",
+    "darkThemeColor": "#FFFFFF"
+  },
+  {
+    "name": "text-secondary",
+    "lightThemeColor": "#171F24",
+    "darkThemeColor": "#FFFFFF"
+  }
+]
