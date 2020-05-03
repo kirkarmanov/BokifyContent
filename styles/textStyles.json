@@ -2,35 +2,35 @@
   {
     "name": "Title",
     "color": "text-primary",
-    "textSize": "28"
+    "textSize": "28",
     "fontWeight": "400",
     "lineHeight": "36"
    },
   {
     "name": "Subtitle",
     "color": "text-primary",
-    "textSize": "24"
+    "textSize": "24",
     "fontWeight": "400",
     "lineHeight": "32"
   },
   {
     "name": "Lead",
     "color": "text-primary",
-    "textSize": "20"
+    "textSize": "20",
     "fontWeight": "600",
     "lineHeight": "24"
   },
   {
     "name": "Body",
     "color": "text-primary",
-    "textSize": "17"
+    "textSize": "17",
     "fontWeight": "400",
     "lineHeight": "24"
   },
   {
     "name": "imgCaption",
     "color": "text-secondary",
-    "textSize": "15"
+    "textSize": "15",
     "fontWeight": "400",
     "lineHeight": "18"
   }
