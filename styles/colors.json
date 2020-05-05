@@ -1,170 +1,167 @@
 [
   {
     "name": "text-primary",
-        "light": {
-        "color": "#171F24",
-        "opacity": "1"
+    "light": {
+      "color": "#171F24",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#171F24",
-          "opacity": "1"
+    "dark": {
+      "color": "#171F24",
+      "opacity": "1"
     }
   },
-  
   {
-  "name": "text-secondary",
-        "light": {
-        "color": "#98999A",
-        "opacity": "1"
+    "name": "text-secondary",
+    "light": {
+      "color": "#98999A",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#98999A",
-          "opacity": "1"
-    },
-    
+    "dark": {
+      "color": "#98999A",
+      "opacity": "1"
+    }
+  },
   {
-  "name": "text-tertiary",
-        "light": {
-        "color": "#CBCCCD",
-        "opacity": "1"
+    "name": "text-tertiary",
+    "light": {
+      "color": "#CBCCCD",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#CBCCCD",
-          "opacity": "1"
-    },
-  
+    "dark": {
+      "color": "#CBCCCD",
+      "opacity": "1"
+    }
+  },
   {
-  "name": "text-onbtn",
-        "light": {
-        "color": "#FCFCFC",
-        "opacity": "1"
+    "name": "text-onbtn",
+    "light": {
+      "color": "#FCFCFC",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#FCFCFC",
-          "opacity": "1"
-    },
-  
+    "dark": {
+      "color": "#FCFCFC",
+      "opacity": "1"
+    }
+  },
   {
-   "name": "stroke-primary",
-        "light": {
-        "color": "#DEDEDE",
-        "opacity": "1"
+    "name": "stroke-primary",
+    "light": {
+      "color": "#DEDEDE",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#DEDEDE",
-          "opacity": "1"
-    },
-  
+    "dark": {
+      "color": "#DEDEDE",
+      "opacity": "1"
+    }
+  },
   {
-   "name": "stroke-secondary",
-        "light": {
-        "color": "#ECECEC",
-        "opacity": "1"
+    "name": "stroke-secondary",
+    "light": {
+      "color": "#ECECEC",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#ECECEC",
-          "opacity": "1"
-    },
-  
+    "dark": {
+      "color": "#ECECEC",
+      "opacity": "1"
+    }
+  },
   {
-  "name": "bg-screen",
-        "light": {
-        "color": "#FCFCFC",
-        "opacity": "1"
+    "name": "bg-screen",
+    "light": {
+      "color": "#FCFCFC",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#FCFCFC",
-          "opacity": "1"
-    },
-  
+    "dark": {
+      "color": "#FCFCFC",
+      "opacity": "1"
+    }
+  },
   {
-  "name": "bg-content",
-        "light": {
-        "color": "#FFFFFF",
-        "opacity": "1"
+    "name": "bg-content",
+    "light": {
+      "color": "#FFFFFF",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#FFFFFF",
-          "opacity": "1"
-    },
-  
+    "dark": {
+      "color": "#FFFFFF",
+      "opacity": "1"
+    }
+  },
   {
     "name": "icons-primary",
-        "light": {
-        "color": "#92929D",
-        "opacity": "1"
+    "light": {
+      "color": "#92929D",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#92929D",
-          "opacity": "1"
-    },
-  
+    "dark": {
+      "color": "#92929D",
+      "opacity": "1"
+    }
+  },
   {
     "name": "icons-secondary",
-        "light": {
-        "color": "#BFBFBE",
-        "opacity": "1"
+    "light": {
+      "color": "#BFBFBE",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#BFBFBE",
-          "opacity": "1"
-    },
-  
-   {
+    "dark": {
+      "color": "#BFBFBE",
+      "opacity": "1"
+    }
+  },
+  {
     "name": "icons-secondary",
-        "light": {
-        "color": "#BFBFBE",
-        "opacity": "1"
+    "light": {
+      "color": "#BFBFBE",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#BFBFBE",
-          "opacity": "1"
-    },
-  
+    "dark": {
+      "color": "#BFBFBE",
+      "opacity": "1"
+    }
+  },
   {
     "name": "accents-primary",
-        "light": {
-        "color": "#3F38DD",
-        "opacity": "1"
+    "light": {
+      "color": "#3F38DD",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#3F38DD",
-          "opacity": "1"
-    },
-  
+    "dark": {
+      "color": "#3F38DD",
+      "opacity": "1"
+    }
+  },
   {
     "name": "accents-secondary",
-        "light": {
-        "color": "#DE834E",
-        "opacity": "1"
+    "light": {
+      "color": "#DE834E",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#DE834E",
-          "opacity": "1"
+    "dark": {
+      "color": "#DE834E",
+      "opacity": "1"
+    }
+  },
+  {
+    "name": "color-success",
+    "light": {
+      "color": "#42BD5D",
+      "opacity": "1"
     },
-  
-   {
-   "name": "color-success",
-        "light": {
-        "color": "#42BD5D",
-        "opacity": "1"
+    "dark": {
+      "color": "#42BD5D",
+      "opacity": "1"
+    }
+  },
+  {
+    "name": "color-error",
+    "light": {
+      "color": "#EB5B52",
+      "opacity": "1"
     },
-        "dark": {
-          "color": "#42BD5D",
-          "opacity": "1"
-    },
-  
-     {
-   "name": "color-error",
-        "light": {
-        "color": "#EB5B52",
-        "opacity": "1"
-    },
-        "dark": {
-          "color": "#EB5B52",
-          "opacity": "1"
-    },
-  
-  
-  
+    "dark": {
+      "color": "#EB5B52",
+      "opacity": "1"
+    }
+  }
 ]
