@@ -1,91 +1,28 @@
 {
-  "headers": [
+  "modules": [
     {
-      "id": "1",
-      "parts": [
-        {
-          "title": "Заголовок первой главы",
-          "description": "Описание первой главы",
-          "timeDescription": "22 минуты",
-          "bookName": "Kollektiv_avtorov__Azbuka_Finansov.epub",
-          "partNumber": 1,
-          "status": 1
-        },
-        {
-          "title": "Заголовок второй главы",
-          "description": "Описание второй главы",
-          "timeDescription": "23 минуты",
-          "bookName": "Kollektiv_avtorov__Azbuka_Finansov.epub",
-          "partNumber": 2,
-          "status": 2
-        },
-        {
-          "title": "Заголовок третьей главы",
-          "description": "Описание третьей главы",
-          "timeDescription": "24 минуты",
-          "bookName": "Kollektiv_avtorov__Azbuka_Finansov.epub",
-          "partNumber": 3,
-          "status": 0
-        }
-      ]
+      "title": "Заголовок первой главы",
+      "description": "Описание первой главы",
+      "timeDescription": "22 минуты",
+      "bookName": "Kollektiv_avtorov__Azbuka_Finansov.epub",
+      "partNumber": 1,
+      "status": 1
     },
     {
-      "id": "2",
-      "parts": [
-        {
-          "title": "Заголовок первой главы",
-          "description": "Описание первой главы",
-          "timeDescription": "22 минуты",
-          "bookName": "Usachev_A_Dedmorozizde5_Puteshestvie_Na_Ayisberge.epub",
-          "partNumber": 1,
-          "status": 0
-        },
-        {
-          "title": "Заголовок второй главы",
-          "description": "Описание второй главы",
-          "timeDescription": "23 минуты",
-          "bookName": "Usachev_A_Dedmorozizde5_Puteshestvie_Na_Ayisberge.epub",
-          "partNumber": 2,
-          "status": 0
-        },
-        {
-          "title": "Заголовок третьей главы",
-          "description": "Описание третьей главы",
-          "timeDescription": "24 минуты",
-          "bookName": "Usachev_A_Dedmorozizde5_Puteshestvie_Na_Ayisberge.epub",
-          "partNumber": 3,
-          "status": 0
-        }
-      ]
+      "title": "Заголовок второй главы",
+      "description": "Описание второй главы",
+      "timeDescription": "23 минуты",
+      "bookName": "Kollektiv_avtorov__Azbuka_Finansov.epub",
+      "partNumber": 2,
+      "status": 2
     },
     {
-      "id": "3",
-      "parts": [
-        {
-          "title": "Заголовок первой главы",
-          "description": "Описание первой главы",
-          "timeDescription": "22 минуты",
-          "bookName": "Kollektiv_avtorov__Azbuka_Finansov.epub",
-          "partNumber": 1,
-          "status": 0
-        },
-        {
-          "title": "Заголовок второй главы",
-          "description": "Описание второй главы",
-          "timeDescription": "23 минуты",
-          "bookName": "Kollektiv_avtorov__Azbuka_Finansov.epub",
-          "partNumber": 2,
-          "status": 0
-        },
-        {
-          "title": "Заголовок третьей главы",
-          "description": "Описание третьей главы",
-          "timeDescription": "24 минуты",
-          "bookName": "Kollektiv_avtorov__Azbuka_Finansov.epub",
-          "partNumber": 3,
-          "status": 0
-        }
-      ]
+      "title": "Заголовок третьей главы",
+      "description": "Описание третьей главы",
+      "timeDescription": "24 минуты",
+      "bookName": "Kollektiv_avtorov__Azbuka_Finansov.epub",
+      "partNumber": 3,
+      "status": 0
     }
   ]
 }
