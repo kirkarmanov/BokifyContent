@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Сколько будет 2+2?",
+      "multiplyAnswerEnabled": false,
+      "answers": [
+        {
+          "id": 1,
+          "text": "1"
+        },
+        {
+          "id": 2,
+          "text": "2"
+        },
+        {
+          "id": 3,
+          "text": "3"
+        },
+        {
+          "id": 4,
+          "text": "4"
+        }
+      ],
+      "rightAnswersIDS": [
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Выберите ответы 2 и 3",
+      "multiplyAnswerEnabled": true,
+      "answers": [
+        {
+          "id": 1,
+          "text": "Ответ 1"
+        },
+        {
+          "id": 2,
+          "text": "Ответ 2"
+        },
+        {
+          "id": 3,
+          "text": "Ответ 4"
+        },
+        {
+          "id": 4,
+          "text": "Ответ 3"
+        }
+      ],
+      "rightAnswersIDS": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Что изображено на картинке?",
+      "imageLink": "https://github.com/andrewhamsterr/BokifyContent/raw/master/images/ananas.png",
+      "multiplyAnswerEnabled": false,
+      "answers": [
+        {
+          "id": 1,
+          "text": "Ананас"
+        },
+        {
+          "id": 2,
+          "text": "Яблоко"
+        },
+        {
+          "id": 3,
+          "text": "Груша"
+        },
+        {
+          "id": 4,
+          "text": "Персик"
+        }
+      ],
+      "rightAnswersIDS": [
+        1
+      ]
+    }
+  ]
+}
